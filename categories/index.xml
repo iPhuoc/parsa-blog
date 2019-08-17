@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Phuoc | Personal Blog</title>
-    <link>/categories/</link>
+    <link>https://iphuoc.github.io/parsa-blog/categories/</link>
     <description>Recent content in Categories on Phuoc | Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iphuoc.github.io/parsa-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>/categories/article/</link>
+      <link>https://iphuoc.github.io/parsa-blog/categories/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/categories/article/</guid>
+      <guid>https://iphuoc.github.io/parsa-blog/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>/categories/fashion/</link>
+      <link>https://iphuoc.github.io/parsa-blog/categories/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/categories/fashion/</guid>
+      <guid>https://iphuoc.github.io/parsa-blog/categories/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>/categories/food/</link>
+      <link>https://iphuoc.github.io/parsa-blog/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/categories/food/</guid>
+      <guid>https://iphuoc.github.io/parsa-blog/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>/categories/nature/</link>
+      <link>https://iphuoc.github.io/parsa-blog/categories/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/categories/nature/</guid>
+      <guid>https://iphuoc.github.io/parsa-blog/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>/categories/philosophy/</link>
+      <link>https://iphuoc.github.io/parsa-blog/categories/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/categories/philosophy/</guid>
+      <guid>https://iphuoc.github.io/parsa-blog/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valuable Idea</title>
-      <link>/categories/valuable-idea/</link>
+      <link>https://iphuoc.github.io/parsa-blog/categories/valuable-idea/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/categories/valuable-idea/</guid>
+      <guid>https://iphuoc.github.io/parsa-blog/categories/valuable-idea/</guid>
       <description></description>
     </item>
     
